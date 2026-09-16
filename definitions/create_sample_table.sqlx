@@ -1,0 +1,7 @@
+config {
+    type: "table",
+    schema: "sample_tables",
+    name: "emp_sample_table"
+}
+
+SELECT 'Rishi' AS emp_dt
